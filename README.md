@@ -23,3 +23,16 @@ Este repositório armazena a lista de Digimons
 - Titamon
 - GranKuwagamon
 - Alphamon: Ouryuken
+- Armagemon
+- Belphemon: Rage Mode
+- Chaosdramon
+- Imperialdramon: Paladin Mode
+- Imperialdramon: Fighter Mode
+- Lucemon: Satan Mode
+- MirageGaogamon: Burst Mode
+- Ophanimon: Falldown Mode
+- Omegamon
+- Omegamon Alter-S
+- Omegamon Zwart
+- Shinegreymon: Ruin Mode
+----------------
