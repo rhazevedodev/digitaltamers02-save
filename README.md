@@ -11,28 +11,30 @@ Este repositório armazena a lista de Digimons
 
 # Lista de Digimons Obtidos
 
-- Ravemon: Burst Mode
-- ShineGreymon: Burst Mode
-- Rosemon: Burst Mode
-- Hexeblaumon
-- Dinotigermon
-- Raidenmon
-- Beelzebumon: Blast Mode
-- Examon
-- Pukumon Leader
-- Titamon
-- GranKuwagamon
+---------------- Ultras
 - Alphamon: Ouryuken
 - Armagemon
+- Beelzebumon: Blast Mode
 - Belphemon: Rage Mode
 - Chaosdramon
-- Imperialdramon: Paladin Mode
+- Dinotigermon
+- Examon
 - Imperialdramon: Fighter Mode
+- Imperialdramon: Paladin Mode
 - Lucemon: Satan Mode
 - MirageGaogamon: Burst Mode
 - Ophanimon: Falldown Mode
 - Omegamon
 - Omegamon Alter-S
 - Omegamon Zwart
+- Raidenmon
+- Ravemon: Burst Mode
+- Rosemon: Burst Mode
+- ShineGreymon: Burst Mode
 - Shinegreymon: Ruin Mode
+---------------- Outros
+- Hexeblaumon
+- Pukumon Leader
+- Titamon
+- GranKuwagamon
 ----------------
