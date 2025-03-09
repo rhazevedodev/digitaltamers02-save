@@ -4,10 +4,13 @@ Este repositório armazena a lista de Digimons
 
 # Outras informações
 
-- Save sem mecanica reborn
-- 124 medalhas de challenge / todas ate 08 de março de 2025
-- Supplemon na server city
-- Muitos recursos
+- No reborn mechanic
+- 124 of challenge
+- A lot of resources
+
+# History Mode
+- All Dungeons are done
+- Only NPC i don't get is Gomamon, need find digiseabass on net ocean
 
 # Lista de Digimons Obtidos
 
