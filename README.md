@@ -13,7 +13,7 @@ Este repositório armazena a lista de Digimons
 - Only NPC i don't get is Gomamon, need find digiseabass on net ocean
 
 # Diigmons Descobertos
-- 412/468
+- 420/468
 
 # Lista de Digimons Obtidos
 ---------------- Ultras
@@ -312,6 +312,8 @@ Este repositório armazena a lista de Digimons
 094 - XV-mon
 095 - Yanmamon
 096 - Yukidarumon
+---------------- Rookies
+001 - 
 
 ---------------- Leader
 001 - Leader Pukumon
