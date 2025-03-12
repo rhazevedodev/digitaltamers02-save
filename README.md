@@ -13,7 +13,7 @@ Este repositório armazena a lista de Digimons
 - Only NPC i don't get is Gomamon, need find digiseabass on net ocean
 
 # Diigmons Descobertos
-- 384/468
+- 412/468
 
 # Lista de Digimons Obtidos
 ---------------- Ultras
@@ -130,7 +130,6 @@ Este repositório armazena a lista de Digimons
 088 - ShinMonzaemon
 089 - Valkyrimon
 090 - Z'd Garurumon
-
 ---------------- Ultimate
 001 - Aegiochusmon
 002 - AeroV-dramon
@@ -216,6 +215,103 @@ Este repositório armazena a lista de Digimons
 082 - Yatagaramon
 083 - Zephyrmon
 084 - Zudomon
+---------------- Champion
+001 - Aegiomon
+002 - Agunimon
+003 - Aidramon
+004 - Angemon
+005 - Ankylomon
+006 - Aquilamon
+007 - Bakemon
+008 - BaoHackmon
+009 - Beetlemon
+010 - Birdramon
+011 - BlackTailmon
+012 - Chackmon
+013 - Chrysalimon
+014 - Cockatrimon
+015 - Coredramon (Blue)
+016 - Coredramon (Green)
+017 - Death-X-DORUgamon ---------------- pendente indisponivel
+018 - Deltamon
+019 - Devimon
+020 - Diatrymon
+021 - Dinohumon
+022 - Dobermon
+023 - Dogmon
+024 - DORUgamon
+025 - Drimogemon
+026 - Ebidramon
+027 - Eosmon (Champion)
+028 - Fangmon
+029 - Flymon
+030 - Fugamon
+031 - Galgomon
+032 - Gaogamon
+033 - Garurumon
+034 - Garurumon (Black)
+035 - Gekomon
+036 - GeoGreymon
+037 - Geremon
+038 - Gesomon
+039 - Ginryumon
+040 - Gokimon
+041 - Greymon
+042 - Greymon (Blue)
+043 - Greymon (Xros Wars)
+044 - Growmon
+045 - Guardromon
+046 - Guardromon (Gold) ------------------------ pendente indisponivel
+047 - Hookmon
+048 - Hyougamon
+049 - IceDevimon
+050 - Icemon
+051 - Ikkakumon
+052 - Kabuterimon
+053 - Kazemon
+054 - Kuwagamon
+055 - Kyubimon
+056 - Leomon
+057 - Lobomon
+058 - Machmon
+059 - MadLeomon
+060 - MailBirdramon
+061 - Meramon
+062 - Minotaurmon
+063 - Monochromon
+064 - Musyamon
+065 - NiseDrimogemon
+066 - Numemon
+067 - Ogremon
+068 - Paledramon
+069 - Peckmon
+070 - Petermon
+071 - Pidmon
+072 - Ranamon 
+073 - Red V-dramon
+074 - Reppamon
+075 - Saberdramon
+076 - SandYanmamon
+077 - Seadramon
+078 - Snimon
+079 - Starmon
+080 - Stingmon
+081 - Strikedramon
+082 - Sukamon
+083 - Sunflowmon
+084 - Tailmon
+085 - Togemon
+086 - Turuiemon
+087 - Tyranomon
+088 - V-dramon
+089 - V-dramon (Black)
+090 - Waspmon
+091 - Wendimon
+092 - Wizardmon
+093 - Woodmon
+094 - XV-mon
+095 - Yanmamon
+096 - Yukidarumon
 
 ---------------- Leader
 001 - Leader Pukumon
