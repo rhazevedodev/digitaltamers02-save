@@ -120,10 +120,75 @@ Este repositório armazena a lista de Digimons
 080 - MetalGarurumon
 081 - MetalGarurumon (Black)
 082 - MirageGaogamon
+083 - Rafflesimon 
+084 - Raijinmon
+085 - Ravemon
+086 - SaintGalgomon
+087 - Sakuyamon
+088 - ShinMonzaemon
+089 - Valkyrimon
+090 - Z'd Garurumon
 
 ---------------- Ultimate
-- Betsumon
+001 - Aegiochusmon
+002 - AeroV-dramon
+003 - Aldamon
+004 - Andiramon
+005 - Andiramon (Deva)
+006 - Angewomon
+007 - Anomalocarimon
+008 - AtlurKabuterimon (Blue)
+009 - AtlurKabuterimon (Red)
+010 - Betsumon
+011 - BlueMeramon
+012 - Brachiomon
+013 - BurningGreymon
+014 - Cannonbeemon
+015 - CaptainHookmon
+016 - CrysPaledramon
+017 - Cyberdramon
+018 - DarkSuperstarmon
+019 - Delumon
+020 - Digitamamon
+021 - DORUguremon
+022 - Eosmon (Ultimate)
+023 - Etemon
+024 - Fantomon
+025 - Garudamon
+026 - Groundramon
+027 - Hippogriffomon
+028 - Hisyaryumon
+029 - HolyAngemon
+030 - Infermon
+031 - Jyureimon
+032 - KendoGarurumon
+033 - Korikakumon
+034 - LadyDevimon
+035 - Lilamon
+036 - Lillymon
+037 - Lucemon: Falldown Mode
+038 - MachGaogamon
+039 - Mamemon
+040 - MasterTyranomon
+041 - Megadramon
+042 - MegaloGrowlmon
+043 - MegaSeadramon
+044 - 
+
 ---------------- Leader
-- Pukumon Leader
+001 - Leader Pukumon
+002 - Leader MegaSeadramon
+003 - Leader Angewomon
+004 - Leader MetalSeadrmaon
+005 - Leader Anomalocarimon
+006 - Leader Ebidramon
+007 - Leader Brachiomon
+008 - Leader Jesmon
+009 - Leader Triceramon
+010 - Leader Airdramon
+011 - Leader Numemon
+012 - Leader Agumon (Black) (Azul)
+013 - Leader Agumon (Verde)
+014 - Leader WaruMonzaemon
 ----------------
 
