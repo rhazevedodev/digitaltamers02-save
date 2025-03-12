@@ -173,7 +173,18 @@ Este repositório armazena a lista de Digimons
 041 - Megadramon
 042 - MegaloGrowlmon
 043 - MegaSeadramon
-044 - 
+044 - Mermaimon
+045 - MetalGreymon
+046 - MetalGreymon (Virus)
+047 - MetalGreymon (Xros Wars)
+048 - MetalKabuterimon
+049 - MetalTyranomon
+050 - Meteormon
+051 - Monzaemon
+052 - Myotismon
+053 - NeoDevimon
+054 - Oboromon
+055 - 
 
 ---------------- Leader
 001 - Leader Pukumon
