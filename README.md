@@ -12,8 +12,10 @@ Este repositório armazena a lista de Digimons
 - All Dungeons are done
 - Only NPC i don't get is Gomamon, need find digiseabass on net ocean
 
-# Lista de Digimons Obtidos
+# Diigmons Descobertos
+- 384/468
 
+# Lista de Digimons Obtidos
 ---------------- Ultras
 001 - Alphamon: Ouryuken
 002 - Armagemon
@@ -184,7 +186,36 @@ Este repositório armazena a lista de Digimons
 052 - Myotismon
 053 - NeoDevimon
 054 - Oboromon
-055 - 
+055 - Okuwamon
+056 - OmegaShoutmon
+057 - Paildramon
+058 - Pandamon
+059 - Panjyamon
+060 - Parrotmon
+061 - Pumpkinmon
+062 - Rapidmon
+063 - RizeGreymon
+064 - SaviorHackmon
+065 - Shakkoumon
+066 - ShogunGekomon
+067 - Silphymon
+068 - SkullGreymon
+069 - SkullSatamon
+070 - Snowmanmon ------------- Pendente/Evento
+071 - Superstarmon
+072 - Taomon
+073 - Triceramon
+074 - Vermillimon
+075 - WaruMonzaemon
+076 - WaruSeadramon
+077 - WereGarurumon
+078 - WereGarurumon (Black)
+079 - Whamon
+080 - Wingdramon
+081 - Wisemon
+082 - Yatagaramon
+083 - Zephyrmon
+084 - Zudomon
 
 ---------------- Leader
 001 - Leader Pukumon
